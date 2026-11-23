@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "imitation_j_5",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"-DAUTO_KDK_TRACKPAD_IQS9151_ENABLED\"",
+            "name": "imitation_j_5_vial"
+        }
+    ]
+}
